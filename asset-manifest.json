@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shakya04/mytraveljournal/static/css/main.b1521b4e.css",
+    "main.js": "/Shakya04/mytraveljournal/static/js/main.244a3220.js",
+    "index.html": "/Shakya04/mytraveljournal/index.html",
+    "main.b1521b4e.css.map": "/Shakya04/mytraveljournal/static/css/main.b1521b4e.css.map",
+    "main.244a3220.js.map": "/Shakya04/mytraveljournal/static/js/main.244a3220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1521b4e.css",
+    "static/js/main.244a3220.js"
+  ]
+}
